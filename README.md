@@ -75,12 +75,17 @@
 * 📜 **Anthropic Hub:** *Claude 101* — Prompt engineering and LLM lifecycle credentials.
 * 📜 **Accredited Credential:** *AI Fluency for Students* — Foundational AI literacy and deployment.
 
----
+---  
 
 ### 📊 GitHub Activity & Streak
 
 <div align="center">
+  <a href="https://github.com/kourtessiotis">
+    <img src="https://streak-stats.demolab.com/?user=kourtessiotis&theme=dark&hide_border=true&background=08080c&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&dates=a1a1aa" alt="GitHub Streak" />
+  </a>
+</div>
 
+---
   <!-- Streak Stats Card (Rock-solid & matched with cyan theme) -->
   <img src="https://streak-stats.demolab.com/?user=kourtessiotis&theme=dark&hide_border=true&background=08080c&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&dates=a1a1aa" alt="GitHub Streak" />
 
