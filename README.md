@@ -27,7 +27,7 @@
 ### 👨‍💻 Profile Overview
 
 * 🎓 **Education:** 3rd Year Computer Science Undergraduate at **University of Piraeus** (*BSc in Digital Systems*).
-* 💼 **Commercial Deliverables:** Architected and deployed production systems including custom **Headless E-commerce** ([Psinakis Optics](https://psinakisopticalstore.gr)) and dedicated **Embedded Waiter POS** hardware setups.
+* 💼 **Commercial Deliverables:** Architected and deployed production solutions, including a custom **Headless E-commerce** platform ([Psinakis Optics](https://psinakisopticalstore.gr)), standalone **Embedded Waiter POS** hardware setups, and multiple client website releases.
 * ⚙️ **Systems & Hardware:** Solid background in Linux OS environments, Raspberry Pi micro-servers, local networking, and workstation hardware integration.
 * 🤖 **AI Integration:** Hands-on development integrating LLMs (Gemini API, Anthropic Claude) and Meta Webhooks into production business workflows.
 * 🗣️ **Languages:** Greek (Native) • English (C2 Proficiency - ECPE, University of Michigan).
@@ -38,8 +38,12 @@
 
 * **[Psinakis Optical Store](https://psinakisopticalstore.gr)** — *Live Commercial E-Commerce Platform*
   * Engineered a high-end headless storefront utilizing **HTML, Tailwind CSS, JavaScript (ES6+)**, and **Cloudflare Pages**.
-  * Backed by **Firebase Firestore** for real-time catalog/order state management.
+  * Backed by **Firebase Firestore** for real-time catalog and order state management.
   * Integrated **Viva.com** online payment gateway, Cash-on-Delivery workflows, **Resend API** for DKIM-authenticated transactional emails, and GA4 conversion tracking.
+
+* **Commercial Web Deployments & Client Showcases** — *Production Web Applications*
+  * Developed and delivered responsive, multi-page presentation websites for external businesses as technical contractor in collaboration with an early-stage startup.
+  * Implemented mobile-first UI architecture, modern styling (**Tailwind CSS**), performance optimization, and continuous deployment workflows via **Vercel** and **Cloudflare**.
 
 * **Custom Embedded Waiter POS** — *Hospitality Production Appliance*
   * Standalone order management setup engineered on **Raspberry Pi** running Linux.
